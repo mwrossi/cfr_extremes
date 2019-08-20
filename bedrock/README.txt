@@ -32,8 +32,8 @@ containing the files needed to relate these maps to 1-m lidar slope-thresholds.
 File				Description
 --------------------------------------------------------------------------------------------------------------------
 calibration_patches.kmz		location of calibration patches to view in Google Earth
-calibration_patches.gdb		geodatabase includes vector version of classification maps, derived 1-m raster of
-				classification maps, and 1-m raster of slope for each patch
+calibration_patches.gdb.zip	zipped geodatabase includes vector version of classification maps, derived 1-meter
+				raster of classification maps, and 1-m raster of slope for each patch
 --------------------------------------------------------------------------------------------------------------------
 
 III. PATCH DESCRIPTIONS
